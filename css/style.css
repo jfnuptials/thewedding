@@ -9174,6 +9174,10 @@ button.bg-dark:focus {
 .text-center {
   text-align: center !important;
 }
+.iframe {
+  max-width: 100%;
+}
+
 
 @media (min-width: 576px) {
   .text-sm-left {
